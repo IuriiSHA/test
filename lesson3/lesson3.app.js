@@ -15,3 +15,10 @@ let fullPrice = 100000;
 
 // 6) Адаптивность (булевое значение: true/false)
 let responsive = true;
+
+console.log(titleProject);
+console.log(screensValue);
+console.log(screenPrice);
+console.log(percentage);
+console.log(fullPrice);
+console.log(responsive);
